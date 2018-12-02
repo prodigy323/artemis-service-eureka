@@ -1,5 +1,5 @@
-# Spring Cloud Zuul Proxy Server
-Service to act as either a reverse proxy or API Gateway
+# Spring Cloud Eureka Discovery Server
+Service to allow Service Discovery
 
 ## ToDo
 *
